@@ -48,7 +48,7 @@ global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
 global.owner = ['+94751284913']
-global.ownertag = '+941284913' //your tag number
+global.ownertag = '+94751284913' //your tag number
 global.botname = '🇵 🇺 🇳 🇨 🇭 🇦 'Ⓢ︎ - 𝘉𝘖𝘛' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
 global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
@@ -56,7 +56,7 @@ global.dragonemoji = '🧩' // Menu emoji
 global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
 
 //database
-global.premium = ['+941284913'] //ur premium numbers
+global.premium = ['+94751284913'] //ur premium numbers
 
 //other
 global.sessionName = 'session'
